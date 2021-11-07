@@ -1,6 +1,7 @@
 
 
 TerryAntle@gmail.com
+
 https://www.linkedin.com/in/TerryAntle
 
 
@@ -15,20 +16,21 @@ https://www.linkedin.com/in/TerryAntle
 
 May 2020 
 To Present
-	Software Engineering Consultant - Amazon
-Seattle, WA
+*Software Engineering Consultant - Amazon*
+*Seattle, WA*
 * Leading the effort to developing an object model and database design toward an improved user experience.
 * Author and illustrate user material to enhance the user experience.
 * Develop new HR systems and improve existing software and database engineering runtimes by over 80%.
 * Collaborate with customers and engineers frequently, locally and around the world, to assure a good user experience is being delivered.
 
 September 2015 to May 2020
-Real Estate Development, Sales and Investments, Self Employed
-Seattle, WA
+*Real Estate Development, Sales and Investments, Self Employed*
+*Seattle, WA*
 
 September 2001 to 
-September 2015	Principal Software Engineer, BAE Systems, Inc.
-Fort Worth, TX
+September 2015	
+*Principal Software Engineer, BAE Systems, Inc.*
+*Fort Worth, TX*
 BAE Systems is an international defense contractor to primarily support our military. The Fort Worth office supports the F-16 Viper aircraft program operated by the United States Air Force.
 
 * Lead developer on multiple globally-deployed projects including military classified systems.
