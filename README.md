@@ -55,8 +55,8 @@ BAE Systems is an international defense contractor to primarily support our mili
 
 **EDUCATION**
 
-Bachelor of Science in Computer Science
-University of Central Oklahoma.
+*Bachelor of Science in Computer Science*<br>
+*University of Central Oklahoma.*
 
 **CERTIFICATIONS AND CLEARANCES**
 
