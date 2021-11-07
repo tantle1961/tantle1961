@@ -1,20 +1,17 @@
-|                                        |
-|                 :---:                  |
-|           TerryAntle@gmail.com         |
-| https://www.linkedin.com/in/TerryAntle |
+                                                                  
+ TerryAntle@gmail.com         
+ https://www.linkedin.com/in/TerryAntle 
 
 
- 
+
 **TECHNICAL EXPERIENCE**
 
 **Proficient**: Java, Python, C, C++, AWS, SQL, Presto, Athena, IntelliJ, Git, Markdown, UDM, S3, SIM, Step Functions, CloudWatch, DrawIO, Quip, SharePoint, WordDocs, Lambda, Event Bridge, Chime, JSON, Brazil Tools, DynamoDB, CSV, HTML, XML, Apache Velocity.
-
-**Exposure**: CSS, C#, JavaScript, UML, AJAX, jQuery, Hibernate, Struts, Spring, Tapestry, JMeter, Maven, Git, MySQL, PHP, Ruby, Linux, PERL, Fortran, Assembly.
+**Exposure**: CSS, C#, JavaScript, UML, AJAX, jQuery, Hibernate, Struts, Spring, Tapestry, JMeter, Maven, Git, MySQL, PHP, Ruby, Linux, PERL, Fortran, Assembly. |
 
 **PROFESSIONAL EXPERIENCE**
 
-May 2020 
-To Present
+May 2020 To Present<br>
 *Software Engineering Consultant - Amazon*
 *Seattle, WA*
 - Leading the effort to developing an object model and database design toward an improved user experience.
@@ -22,15 +19,14 @@ To Present
 - Develop new HR systems and improve existing software and database engineering runtimes by over 80%.
 - Collaborate with customers and engineers frequently, locally and around the world, to assure a good user experience is being delivered.
 
-September 2015 to May 2020
-*Real Estate Development, Sales and Investments, Self Employed*
+September 2015 to May 2020<br>
+*Real Estate Development, Sales and Investments, Self Employed*<br>
 *Seattle, WA*
 
-September 2001 to 
-September 2015	
-*Principal Software Engineer, BAE Systems, Inc.*
-*Fort Worth, TX*
-BAE Systems is an international defense contractor to primarily support our military. The Fort Worth office supports the F-16 Viper aircraft program operated by the United States Air Force.
+September 2001 to September 2015<br>
+*Principal Software Engineer, BAE Systems, Inc.*<br>
+*Fort Worth, TX*<br>
+BAE Systems is an international defense contractor to primarily support our military. The Fort Worth office supports the F-16 Viper aircraft program operated by the United States Air Force.<br>
 
 - Lead developer on multiple globally-deployed projects including military classified systems.
 - Work in accordance with AS9100 and MIL-STD requirements.
