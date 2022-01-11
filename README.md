@@ -6,12 +6,12 @@
 
 **TECHNICAL EXPERIENCE**
 
-**Proficient**: Java, Python, C, C++, AWS, SQL, Presto, Athena, IntelliJ, Git, Markdown, UDM, S3, SIM, Step Functions, CloudWatch, DrawIO, Quip, SharePoint, WordDocs, Lambda, Event Bridge, Chime, JSON, Brazil Tools, DynamoDB, CSV, HTML, XML, Apache Velocity.<br><br>
-**Exposure**: CSS, C#, JavaScript, UML, AJAX, jQuery, Hibernate, Struts, Spring, Tapestry, JMeter, Maven, Git, MySQL, PHP, Ruby, Linux, PERL, Fortran, Assembly. |
+**Proficient**: Java, JavaScript, CSS, Python, C, C++, AWS, SQL, Presto, Athena, IntelliJ, Git, Markdown, UDM, S3, SIM, Step Functions, CloudWatch, DrawIO, Quip, SharePoint, WordDocs, Lambda, Event Bridge, Chime, JSON, Brazil Tools, DynamoDB, CSV, HTML, XML, Apache Velocity.<br><br>
+**Exposure**:  C#, UML, AJAX, jQuery, Hibernate, Struts, Spring, Tapestry, JMeter, Maven, MySQL, PHP, Ruby, Linux, PERL, Fortran, Assembly. |
 
 **PROFESSIONAL EXPERIENCE**
 
-May 2020 To Present<br>
+May 2020 To Dec 2021<br>
 *Software Engineering Consultant - Amazon*
 *Seattle, WA*
 - Leading the effort to developing an object model and database design toward an improved user experience.
